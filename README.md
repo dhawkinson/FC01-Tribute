@@ -1,4 +1,4 @@
-# fccProject01
+# FC01-Tribute
 Free Code Camp Project 01
 
 Build a Tribute Page
